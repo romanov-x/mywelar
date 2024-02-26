@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2021-07-17 12:10">
+<yml_catalog date="2024-02-26 16:50">
     <shop>
-        <name>Сэмпл.Врачи</name>
-        <company>ООО Сэмпл.Врачи</company>
-        <url>https://doctors.sample.s3.yandex.net</url>
-        <email>support-doctors@doctors.sample.s3.yandex.net</email>
-        <picture>https://avatars.mds.yandex.net/get-pdb/5679262/13d16a0c-27e9-4095-8f55-accdc2d7c8f0/s1200</picture>
+        <name>Работает</name>
+        <company>ИННОВАЦИОННАЯ СТОМАТОЛОГИЯ MyWelar</company>
+        <url>https://mywelar.ru/</url>
+        <email>info@welar.com</email>
+        <picture>https://mywelar.ru/wp-content/uploads/2019/svg/0-logo-welar.svg</picture>
         <description>Каталог врачей</description>
         <currencies>
           <currency id="RUR" rate="1" />
@@ -15,13 +15,41 @@
         </categories>
 
         <sets>
-            <set id="terapevt">
-                <name>Терапевт</name>
-                <url>https://doctors.sample.s3.yandex.net/terapevt</url>
+            <set id="glav-vrach">
+                <name>Главный врач</name>
+                <url>https://mywelar.ru/o-welar/personal-kliniki-welar/</url>
+            </set>
+            <set id="ortoped">
+                <name>Ортопед</name>
+                <url>https://mywelar.ru/o-welar/personal-kliniki-welar</url>
             </set>
             <set id="khirurg">
                 <name>Хирург</name>
-                <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+                <url>https://mywelar.ru/o-welar/personal-kliniki-welar</url>
+            </set>
+            <set id="implantolog">
+                <name>Имплантолог</name>
+                <url>https://mywelar.ru/o-welar/personal-kliniki-welar</url>
+            </set>
+            <set id="terapevt">
+                <name>Терапевт</name>
+                <url>https://mywelar.ru/o-welar/personal-kliniki-welar</url>
+            </set>
+            <set id="mikroskopist">
+                <name>Микроскопист</name>
+                <url>https://mywelar.ru/o-welar/personal-kliniki-welar</url>
+            </set>
+            <set id="mikroskopist">
+                <name>Микроскопист</name>
+                <url>https://mywelar.ru/o-welar/personal-kliniki-welar</url>
+            </set>
+            <set id="stomatolog">
+                <name>Стоматолог</name>
+                <url>https://mywelar.ru/o-welar/personal-kliniki-welar</url>
+            </set>
+            <set id="parodontolog">
+                <name>Пародонтолог</name>
+                <url>https://mywelar.ru/o-welar/personal-kliniki-welar</url>
             </set>
         </sets>
         <offers>
